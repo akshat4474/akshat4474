@@ -12,7 +12,7 @@
 
 ### My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat4474&show_icons=true&theme=radical" alt="akshat4474's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat4474&show_icons=true&theme=radical&count_private=true" alt="akshat4474's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat4474&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
