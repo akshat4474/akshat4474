@@ -1,47 +1,54 @@
-<h1 align="center">Hi 👋, I'm Akshat Bisht</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">👋 Hi, I'm <strong>Akshat Bisht</strong></h1>
+<h3 align="center">🚀 Developer | AI/ML Enthusiast | Robotics & Systems Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat4474&label=Profile%20views&color=0e75b6&style=flat" alt="akshat4474" /> </p>
-
-👋 Hey there! I’m **Akshat Bisht**, a passionate developer from India, diving deep into programming, electronics, and tech explorations!
-
-### About Me
-- 🌱 I’m currently learning **MACHINE Learning**
-- 💡 I enjoy working on **innovative projects** and **tech explorations**
-- 🎓 Pursuing B.Tech in IT and actively expanding my programming skillset
-
-### My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat4474&show_icons=true&theme=radical&count_private=true" alt="akshat4474's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat4474&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🌐 Portfolio Website  
-<a href="https://portfolio-nine-mu-6s6grt82bd.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-</a>
-
-
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/akshat-bisht-586727161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile" height="30" width="40" /></a>
-</p>
-
-### Languages and Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-
-
-### My Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat4474&theme=dracula"/>
+  <img src="https://komarev.com/ghpvc/?username=akshat4474&label=Profile%20Views&color=brightgreen&style=flat" alt="views" />
 </p>
 
 ---
-⭐️ From [Akshat Bisht](https://github.com/akshat4474)
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently learning **Machine Learning & AI Systems**
+- 🤖 Working on **Autonomous Navigation, Robotics & Modular AI Pipelines**
+- 💻 Strong in **Full-Stack Development, ML, CV, and DevOps**
+- 🎓 B.Tech IT student at Manipal University Jaipur
+- ⚡ I love building **end-to-end projects** — from hardware → AI → backend → frontend
+
+---
+
+## 🚀 Tech Stack
+
+### 🔹 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🔹 Frameworks, Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+### ⭐ GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats-akshat4474.vercel.app/api?username=akshat4474&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-akshat4474.vercel.app/api/top-langs/?username=akshat4474&layout=compact&theme=radical" height="180"/>
+</p>
