@@ -44,11 +44,3 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-### ⭐ GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats-akshat4474.vercel.app/api?username=akshat4474&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats-akshat4474.vercel.app/api/top-langs/?username=akshat4474&layout=compact&theme=radical" height="180"/>
-</p>
