@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vercel.com/akshat-bishts-projects/portfolio/4GramoRuNKtfkCz9Ndxz27kaLUhL" target="_blank">
+  <a href="https://portfolio-nine-mu-6s6grt82bd.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
   </a>
 </p>
